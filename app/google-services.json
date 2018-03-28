@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699392180579",
+    "firebase_url": "https://loginapp-130c1.firebaseio.com",
+    "project_id": "loginapp-130c1",
+    "storage_bucket": "loginapp-130c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699392180579:android:0b5cd31648ce305b",
+        "android_client_info": {
+          "package_name": "com.antont.socialloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699392180579-61gr8mh2ud176u1kd4csrtlgh0lrg0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antont.socialloginfirebase",
+            "certificate_hash": "640cdcd18b4ae5f21af21e15653cc0464ffc1d8a"
+          }
+        },
+        {
+          "client_id": "699392180579-h20gdgofpkfju183tit07vcunjikl4f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP15pICl6_P-qnWRXO1BdPg3Ho6j6a84Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699392180579-h20gdgofpkfju183tit07vcunjikl4f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
