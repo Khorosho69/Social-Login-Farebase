@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">SocialLoginFirebase</string>
+    <string name="logout_button_text">logout</string>
+
     <string name="facebook_app_id">198535380752886</string>
+    <string name="twitter_consumer_key">1txxDjC2wJ1zeb2kVoLs4aaSg</string>
+    <string name="twitter_consumer_secret">NLpFHL0l1LCtuAlweUcwfdEaSQ41sUKiAMayatFG9F9UaUB9zX</string>
+    <string name="instagram_login_button_text">Log in with Instagram</string>
 </resources>
